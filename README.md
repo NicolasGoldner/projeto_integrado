@@ -7,12 +7,3 @@ Realizamos um projeto integrado que uniu as disciplinas de Construção de Softw
 * Nicolas Oliveira Goldner 
 * Igor Rigoni Rodrigues 
 * Pedro Henrique Pinheiro 
-
-(Criar outro readme dentro da pasta com os arquivos)
-
-## Arquivos 
-Conceitual_1.brM3: Arquivo com o projeto conceitual do Banco de Dados.
-
-postgres.sql: Arquivo com o Script do Banco de Dados.
-
-projetologico.architect: Arquivo com o projeto lógico do Banco de Dados.
